@@ -1,0 +1,62 @@
+Language model created by QuickLM on Tue May 15 15:42:29 EDT 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 4 sentences and 13 words
+
+\data\
+ngram 1=13
+ngram 2=15
+ngram 3=11
+
+\1-grams:
+-0.9777 </s> -0.3010
+-0.9777 <s> -0.2527
+-1.5798 AM -0.2894
+-1.5798 ARE -0.2894
+-1.5798 HELLO -0.2527
+-1.5798 I -0.2527
+-1.5798 IS -0.2894
+-1.5798 IT -0.2527
+-1.5798 TIME -0.2894
+-1.5798 WHAT -0.2894
+-1.5798 WHERE -0.2894
+-1.5798 WHO -0.2894
+-1.5798 YOU -0.2527
+
+\2-grams:
+-0.9031 <s> HELLO 0.0000
+-0.9031 <s> WHAT 0.0000
+-0.9031 <s> WHERE 0.0000
+-0.9031 <s> WHO 0.0000
+-0.3010 AM I 0.0000
+-0.3010 ARE YOU 0.0000
+-0.3010 HELLO </s> -0.3010
+-0.3010 I </s> -0.3010
+-0.3010 IS IT 0.0000
+-0.3010 IT </s> -0.3010
+-0.3010 TIME IS 0.0000
+-0.3010 WHAT TIME 0.0000
+-0.3010 WHERE AM 0.0000
+-0.3010 WHO ARE 0.0000
+-0.3010 YOU </s> -0.3010
+
+\3-grams:
+-0.3010 <s> HELLO </s>
+-0.3010 <s> WHAT TIME
+-0.3010 <s> WHERE AM
+-0.3010 <s> WHO ARE
+-0.3010 AM I </s>
+-0.3010 ARE YOU </s>
+-0.3010 IS IT </s>
+-0.3010 TIME IS IT
+-0.3010 WHAT TIME IS
+-0.3010 WHERE AM I
+-0.3010 WHO ARE YOU
+
+\end\
