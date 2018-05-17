@@ -1,0 +1,10 @@
+/home/pi/dhguelph2018/receipt-generator/print.sh advocated-for-yourself
+/home/pi/dhguelph2018/receipt-generator/print.sh comforted-a-friend
+/home/pi/dhguelph2018/receipt-generator/print.sh created-the-conditions
+/home/pi/dhguelph2018/receipt-generator/print.sh emotional-labour
+/home/pi/dhguelph2018/receipt-generator/print.sh fielded-microaggressions
+/home/pi/dhguelph2018/receipt-generator/print.sh fought-the-patriarchy
+/home/pi/dhguelph2018/receipt-generator/print.sh listened-generously
+/home/pi/dhguelph2018/receipt-generator/print.sh mediated-conflict
+/home/pi/dhguelph2018/receipt-generator/print.sh practiced-good-boundaries
+/home/pi/dhguelph2018/receipt-generator/print.sh spoke-up-against-injunction
